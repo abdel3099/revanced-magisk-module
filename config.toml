@@ -11,24 +11,6 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 version = "latest"
 excluded-patches = "'Hide timestamp' 'Comments' 'Hide seekbar' 'Hide Shorts components' 'Hide layout components' 'Player flyout menu' 'Hide 'Load more' button' 'Hide endscreen cards' 'Hide email address' 'Wide searchbar' 'Disable auto captions' 'Disable Shorts on startup' 'Hide cast button' 'Hide autoplay button'"
 
-[Music]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-
-[Instagram]
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-
-[Reddit]
-apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-
-[Twitter]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
-
-[Messenger]
-apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
-
-[Twitch]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
-
 [new tiktok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 version = "latest"
