@@ -9,10 +9,10 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 [metube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 version = "latest"
-excluded-patches = "'Hide timestamp' 'Comments' 'Hide seekbar' 'Hide Shorts components' 'Hide layout components' 'Player flyout menu' 'Hide 'Load more' button' 'Hide endscreen cards' 'Hide email address' 'Wide searchbar' 'Disable auto captions' 'Disable Shorts on startup' 'Hide cast button' 'Hide autoplay button'"
+excluded-patches = "'Old video quality menu' 'Playback speed' 'Disable fine scrubbing gesture' 'Hide timestamp' 'Comments' 'Hide seekbar' 'Hide Shorts components' 'Hide layout components' 'Player flyout menu' 'Hide 'Load more' button' 'Hide endscreen cards' 'Hide email address' 'Wide searchbar' 'Disable auto captions' 'Disable Shorts on startup' 'Hide cast button' 'Navigation buttons' 'Hide autoplay button' 'Disable player popup panels'"
 
 [new tiktok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 version = "latest"
-
+included-patches = "'SIM spoof'"
 
