@@ -1,4 +1,5 @@
-metube: 18.49.36  
+metube: 19.03.35  
+newtiktok: 33.2.4  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 
@@ -6,6 +7,6 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for
 
 Changelog:  
 CLI: j-hc/revanced-cli-4.3.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.1.0.apk  
-Patches: ReVanced/revanced-patches-3.2.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v3.2.0)  
+Integrations: ReVanced/revanced-integrations-1.2.0.apk  
+Patches: ReVanced/revanced-patches-4.0.1.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.0.1)  
